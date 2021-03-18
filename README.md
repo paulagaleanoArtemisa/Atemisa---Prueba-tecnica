@@ -4,7 +4,7 @@ Operación Fuego de Estrella de Neutrones
 
 2. Abrir el proyecto y ubicarse en la ruta del proyecto 
 
-3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "target" 
+3. Ejecutar el comando mvn clean package, se creaa un ejecutable dentro de la carpeta "target" 
 ![Con titulo](fotosPruebaTecnica/generarJar.PNG)
 
 4. En el consolador ubicarse en nombreproyecto/target y ejecutar el comando java -jar nombreApp.jar
