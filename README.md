@@ -1,11 +1,17 @@
 Operación Fuego de Estrella de Neutrones
+
 ! [Con titulo] (fotosPruebaTecnica/post_topsecret. PNG "titulo") 
+
 1. Descomprimir el proyecto fuegoestrella.zip
+
 2. Abrir el consuelo y ubicarse en la ruta del proyecto 
+
 3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "objetivo" 
 ! [Con titulo] (fotosPruebaTecnica/generarJar.PNG "titulo") 
+
 4. En el consolador ubicarse en nombreproyecto/target y ejecutar 
 ! [Con titulo] (fotosPruebaTecnica/targetJar.PNG "titulo") 
+
 5. Consumir servicios de Cartero 
 Pasamos la siguiente información para generar las pruebas. 
 
