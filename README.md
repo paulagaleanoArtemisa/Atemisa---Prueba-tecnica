@@ -1,16 +1,16 @@
 Operación Fuego de Estrella de Neutrones
 
-! [Con titulo] (fotosPruebaTecnica/post_topsecret. PNG "titulo") 
+![Con titulo](fotosPruebaTecnica/post_topsecret.PNG) 
 
 1. Descomprimir el proyecto fuegoestrella.zip
 
 2. Abrir el consuelo y ubicarse en la ruta del proyecto 
 
 3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "objetivo" 
-! [Con titulo] (fotosPruebaTecnica/generarJar.PNG "titulo") 
+![Con titulo](fotosPruebaTecnica/generarJar.PNG) 
 
-4. En el consolador ubicarse en nombreproyecto/target y ejecutar 
-! [Con titulo] (fotosPruebaTecnica/targetJar.PNG "titulo") 
+4. En el consolador ubicarse en nombreproyecto/target y ejecutar el comando java -jar nombreApp.jar
+![Con titulo](fotosPruebaTecnica/targetJar.PNG) 
 
 5. Consumir servicios de Cartero 
 Pasamos la siguiente información para generar las pruebas. 
@@ -40,18 +40,18 @@ Pasamos la siguiente información para generar las pruebas.
 } 
 
 Para el nivel 2 
-Post : http://localhost:8080/topsecret
-! [Con titulo] (fotosPruebaTecnica/post_topsecret. PNG "titulo") 
+Post : http://localhost:8090/topsecret
+![Con titulo](fotosPruebaTecnica/post_topsecret.PNG) 
 
 Para el nivel 3 
-Publicación : http://localhost:8080/topsecret_split/{satellite_nombre} 
-! [Con titulo] (fotosPruebaTecnica/post_topsecretnombre. PNG "titulo") 
+Publicación : http://localhost:8090/topsecret_split/{satellite_nombre} 
+![Con titulo](fotosPruebaTecnica/post_topsecretnombre. PNG "titulo") 
 
-Obtener : http://localhost:8080/topsecret_split/{satellite_nombre} 
-! [Con titulo] (fotosPruebaTecnica/gettopsecretnombre. PNG "titulo") 
+Obtener : http://localhost:8090/topsecret_split/{satellite_nombre} 
+![Con titulo](fotosPruebaTecnica/gettopsecretnombre.PNG) 
 
 
 En caso de que la información llegue incompleta retornara un mensaje de error
-! [Con titulo] (fotosPruebaTecnica/errorGettopsecretnombre.PNG "titulo") 
+![Con titulo](fotosPruebaTecnica/errorGettopsecretnombre.PNG) 
 
 
