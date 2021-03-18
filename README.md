@@ -10,7 +10,7 @@ Operación Fuego de Estrella de Neutrones
 ![Con titulo](fotosPruebaTecnica/generarJar.PNG) 
 
 4. En el consolador ubicarse en nombreproyecto/target y ejecutar el comando java -jar nombreApp.jar
-![Con titulo](fotosPruebaTecnica/targetJar.PNG) 
+![Con titulo](fotosPruebaTecnica/jarApp.PNG) 
 
 5. Consumir servicios de Cartero 
 Pasamos la siguiente información para generar las pruebas. 
@@ -45,7 +45,7 @@ Post : http://localhost:8090/topsecret
 
 Para el nivel 3 
 Publicación : http://localhost:8090/topsecret_split/{satellite_nombre} 
-![Con titulo](fotosPruebaTecnica/post_topsecretnombre. PNG "titulo") 
+![Con titulo](fotosPruebaTecnica/post_topsecretnombre.PNG) 
 
 Obtener : http://localhost:8090/topsecret_split/{satellite_nombre} 
 ![Con titulo](fotosPruebaTecnica/gettopsecretnombre.PNG) 
