@@ -4,13 +4,13 @@ Operación Fuego de Estrella de Neutrones
 
 2. Abrir el consuelo y ubicarse en la ruta del proyecto 
 
-3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "objetivo" 
+3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "target" 
 ![Con titulo](fotosPruebaTecnica/generarJar.PNG)
 
 4. En el consolador ubicarse en nombreproyecto/target y ejecutar el comando java -jar nombreApp.jar
 ![Con titulo](fotosPruebaTecnica/jarApp.PNG)
 
-5. Consumir servicios de Cartero 
+5. Consumir servicios de Postman
 Pasamos la siguiente información para generar las pruebas. 
 
 ● Kenobi: [-500, -200] 
