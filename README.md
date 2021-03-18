@@ -2,7 +2,7 @@ Operación Fuego de Estrella de Neutrones
 
 1. Descomprimir el proyecto fuegoestrella.zip
 
-2. Abrir el consuelo y ubicarse en la ruta del proyecto 
+2. Abrir el proyecto y ubicarse en la ruta del proyecto 
 
 3. Ejecutar el comando mvn paquete limpio, se creaa un ejecutable dentro de la carpeta "target" 
 ![Con titulo](fotosPruebaTecnica/generarJar.PNG)
